@@ -20,4 +20,9 @@ public class Calculator {
         calcValue = num5 - num6;
         return calcValue;
     }
+
+    public int divide(int num7, int num8) {
+        calcValue = num7 / num8;
+        return calcValue;
+    }
 }
