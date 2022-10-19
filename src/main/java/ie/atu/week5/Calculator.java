@@ -15,4 +15,9 @@ public class Calculator {
         calcValue = num3 * num4;
         return calcValue;
     }
+
+    public int subtract(int num5, int num6) {
+        calcValue = num5 - num6;
+        return calcValue;
+    }
 }
